@@ -11,20 +11,11 @@
 -  Member of **IRENA Youth Forum** and active in environmental & cultural exchange initiatives  
 -  Science fair competitor aiming for **ISEF** with projects on sustainability, agriculture, and clean energy  
 
----
-
-##  Projects
-- 
--
--
-- 
-- 
-- 
 
 ---
 
 ##  Tech & Tools
-- **Languages:** JavaScript  
+- **Languages:** JavaScript, Typescript
 - **Web Dev:** HTML, CSS, React.js, Next.js  
 - **Database:** Subabase
 - **Other:** Git/GitHub, Arduino  
