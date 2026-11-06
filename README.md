@@ -52,6 +52,19 @@ I build fast, polished web and mobile products — from storefronts with scroll-
 
 ---
 
+### 🆕 Recent projects
+
+<!-- RECENT-PROJECTS:START -->
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Xeno Inventory** | Inventory and operations dashboard for a retail business | Next.js · Supabase | [Live ↗](https://xeno-inventory.vercel.app) · [Code](https://github.com/mariamislamfe/xeno-inventory) |
+| **Wallet** | Minimal cash + card tracker — log an expense in three keystrokes | Next.js · Supabase | [Live ↗](https://my-wallet-red-eta.vercel.app) · [Code](https://github.com/mariamislamfe/wallet) |
+| **WINKY** | Storefront for phone cases and tote bags with scroll-driven scenes | Next.js · GSAP · Supabase | [Live ↗](https://winky-snowy.vercel.app) · [Code](https://github.com/mariamislamfe/winky) |
+| **Blossom** | Perfume store with card payments | Next.js · Stripe | [Live ↗](https://yuki-perfumes.vercel.app) · [Code](https://github.com/mariamislamfe/yuki-perfumes) |
+<!-- RECENT-PROJECTS:END -->
+
+---
+
 ### 🚀 Featured projects
 
 #### Full-stack platforms
