@@ -57,6 +57,7 @@ I build fast, polished web and mobile products — from storefronts with scroll-
 <!-- RECENT-PROJECTS:START -->
 | Project | What it is | Stack | Links |
 |---|---|---|---|
+| **Custom Me** | Custom design store for bags, sleeves and stickers, with a live design lab | Next.js · Supabase · GSAP | Live soon · [Code](https://github.com/mariamislamfe/custom-me) |
 | **Xeno Inventory** | Inventory and operations dashboard for a retail business | Next.js · Supabase | [Live ↗](https://xeno-inventory.vercel.app) · [Code](https://github.com/mariamislamfe/xeno-inventory) |
 | **Wallet** | Minimal cash + card tracker — log an expense in three keystrokes | Next.js · Supabase | [Live ↗](https://my-wallet-red-eta.vercel.app) · [Code](https://github.com/mariamislamfe/wallet) |
 | **WINKY** | Storefront for phone cases and tote bags with scroll-driven scenes | Next.js · GSAP · Supabase | [Live ↗](https://winky-snowy.vercel.app) · [Code](https://github.com/mariamislamfe/winky) |
